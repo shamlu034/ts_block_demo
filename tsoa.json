@@ -1,0 +1,12 @@
+{
+    "entryFile": "src/server.ts",
+    "spec": {
+        "outputDirectory": "src/swagger",
+        "specVersion": 3,
+        "specFile": "swagger.json"
+    },
+    "routes": {
+        "routesDir": "src/routes",
+        "entryFile": "src/server.ts"
+    }
+}

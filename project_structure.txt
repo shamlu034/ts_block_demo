@@ -1,0 +1,32 @@
+.
+├── package-lock.json
+├── package.json
+├── project_structure.txt
+├── sql
+│   └── mysql.sql
+├── src
+│   ├── config
+│   │   ├── abis.ts
+│   │   └── db.ts
+│   ├── controllers
+│   │   └── stake.ts
+│   ├── models
+│   │   ├── eventData.ts
+│   │   ├── scanTask.ts
+│   │   └── stake.ts
+│   ├── routes
+│   │   ├── index.ts
+│   │   └── routes.ts
+│   ├── server.ts
+│   ├── services
+│   │   └── blockchain.ts
+│   ├── swagger
+│   │   ├── swagger.json
+│   │   └── swagger.ts
+│   └── utils
+│       ├── logger.ts
+│       └── mysqlQueryBuilder.ts
+├── tsconfig.json
+└── tsoa.json
+
+10 directories, 20 files
